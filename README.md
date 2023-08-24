@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Calculator**
 
-- 🌱 I’m currently learning **Javascript - The Odin Project Full Stack Course**
+- 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **HTML, CSS, Javascript**
 
