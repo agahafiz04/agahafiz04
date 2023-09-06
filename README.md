@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/agahafiz04/agahafiz04/assets/139210360/a9cf5d51-a18f-409e-8ab6-d79b13bc45d6)
 <h1 align="center">Hi 👋, I'm Aga</h1>
 <h3 align="center">Software Developer</h3>
-<p align="center">Have a great interest in the IT field and software developments, especially in website (on a journey to learn mobile development too). <br/> Has a great curiosity, and always wants to learn new things everyday 😄</p>
+<p align="center">Have a great interest in the IT field and software developments, especially in website (on a journey to learn mobile development). <br/> Has a great curiosity, and always wants to learn new things everyday 😄</p>
 <img align="right" alt="Coding" width="400" src="https://github.com/agahafiz04/agahafiz04/assets/139210360/f1165a7f-963d-4947-bf8e-af327e581f92">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agahafiz04&label=Profile%20views&color=0e75b6&style=flat" alt="agahafiz04" /> </p>
